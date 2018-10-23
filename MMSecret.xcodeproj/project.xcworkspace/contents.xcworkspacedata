@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:MMSecret.xcodeproj">
+      location = "self:EncrptionDemo.xcodeproj">
    </FileRef>
 </Workspace>

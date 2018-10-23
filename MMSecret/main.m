@@ -1,16 +1,16 @@
 //
 //  main.m
-//  MMSecret
+//  EncrptionDemo
 //
-//  Created by Texowave PVT LTD on 23/10/18.
+//  Created by Texowave PVT LTD on 04/10/18.
 //  Copyright © 2018 Texowave PVT LTD. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
-#import "AppDelegate.h"
+#import "MMAppDelegate.h"
 
 int main(int argc, char * argv[]) {
     @autoreleasepool {
-        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([MMAppDelegate class]));
     }
 }

@@ -7,7 +7,7 @@ target 'MMSecret' do
   # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
   # use_frameworks!
 
-  # Pods for EncrptionDemo
+  # Pods for MMSecret
   pod 'AFNetworking'
   pod 'CocoaSecurity'
   target 'MMSecretTests' do
